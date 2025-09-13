@@ -1,8 +1,0 @@
-Write a query to find the rent generated from each city and also the total of all cities,
-,
-Ans:,
-City,TotalRentGenerated
-bangalore,61200
-Delhi,63700
-Pune,54500
-Total Across All Cities,179400
