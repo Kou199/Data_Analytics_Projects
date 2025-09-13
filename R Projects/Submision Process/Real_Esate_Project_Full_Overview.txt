@@ -1,0 +1,32 @@
+Create a real state project using R script where below details are given like project requirements and process and data dictionary and dataset name,
+
+project requirements: 
+Price of a property is one of the most important decision criterion when people buy homes. Real state firms need to be consistent in their pricing in order to attract buyers.
+Having a predictive model for the same will be great tool to have , which in turn can also be used to tweak development of properties , putting more emphasis on qualities which increase the value of the property.
+
+Project Dataset : housing_train.csv and housing_test.csv
+Dataset File path : housing_train - E:\R Projects\Dataset\housing_train.csv
+housing_test - E:\R Projects\Dataset\housing_test.csv
+
+Project Process : You need to use data housing_train to build predictive model for response variable "Price".
+Housing_test data contains all other factors except "Price", you need to predict that using the model that you developed and submit your predicted values in a csv files.
+First build a predictive model for response variable "Price" using dataset housing_train.csv.
+Second use Housing_test.csv dataset where contains all other factors except "Price", We need to predict that using the model that you developed and submit your predicted values in a csv files.
+
+Project Data Dictionary :
+Suburb : categorical :: Which subsurb the property is located in 
+Address : categorical :: short address
+Rooms : numeric :: Number of Rooms
+Type : categorical :: type of the property
+Price : numeric :: This is the target variable, price of the property 
+Method : categorical :: method for selling 
+SellerG : categorical :: Name of the seller 
+Distance : numeric :: distance from the city center
+Postcode : categorical :: postcode of the property
+Bedroom2 : Numeric :: numbers of secondary bedrooms (this is different from rooms)
+Bathroom : numeric :: number of bathrooms
+Car : numeric :: number of parking spaces
+Landsize : numeric :: landsize
+BuildingArea : numeric :: buildup area
+YearBuilt : numeric :: year of building 
+CouncilArea : numeric :: council area to which the propery belongs

@@ -1,0 +1,13 @@
+Write a code to extend the valid_till date for a month of tenants who have referred more than one time,
+,
+Ans:,
+profile_id,valid_till
+2,05-10-2015
+2,12-10-2015
+5,13-03-2016
+5,18-05-2016
+5,24-07-2016
+13,05-11-2015
+13,01-05-2016
+20,05-05-2016
+20,19-09-2016

@@ -1,0 +1,5 @@
+Write a query to get the house details of the house having highest occupancy,,,,,,,
+,,,,,,,
+Ans:,,,,,,,
+House ID,Address Name,House Type,BHK Type,Furnishing Type,Total Beds,Vacant Beds,Current Occupancy
+1,Zaanz appartment,Apartment,3 BHK,unfurnished,5,2,3
