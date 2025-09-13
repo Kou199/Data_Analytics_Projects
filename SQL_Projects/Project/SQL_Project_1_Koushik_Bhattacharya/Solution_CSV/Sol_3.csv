@@ -1,0 +1,17 @@
+"Write a query to display profile id, full name, phone, email id, city, house id, move_in_date , move_out date, rent, total number of referrals made, latest employer and the occupational category of all the tenants living in Bangalore or Pune in the time period of jan 2015 to jan 2016 sorted by their rent in descending order",,,,,,,,,,,
+,,,,,,,,,,,
+Ans:,,,,,,,,,,,
+Profile ID,Full Name,Phone,City,House ID,Move In Date,Move Out Date,Rent,Total Referrals Made,Latest Employer,Occupational Category,
+14,Manisha Yadav,9867845182,maniyadav88@gmail.com,Pune,18,07-01-2016,30-12-2016,13500,0,NestAway,Working
+3,Bhaskar maheshwari,9801834992,bhaskar.mah@gmail.com,bangalore,4,28-10-2015,28-11-2016,12000,1,Technicolor,Working
+2,Ashish Singh,9876890463,ashish.singh@gmail.com,bangalore,2,05-06-2015,NULL,11000,2,hindustan unilever,Working
+12,Umang parejiya,7896543674,uparejiya@gmail.com,Pune,15,24-02-2015,NULL,11000,1,Centurylink India,Working
+5,Tanvi mann,9178352769,tanvi.mann1907@gmail.com,bangalore,3,15-05-2015,27-12-2015,9000,3,GE Healthcare,Working
+18,Prabhjot gill,9800786688,prabhjotgill09@gmail.com,Pune,16,16-10-2015,04-09-2016,8000,0,Cognizant,Working
+4,Garima yadav,81059237004,garima0191@gmail.com,bangalore,1,26-04-2015,NULL,8000,0,NULL,Student
+11,Deepa sudhakar,7896785432,sudhakar.deepa@gmail.com,Pune,19,29-08-2015,14-06-2016,8000,0,NULL,Student
+19,Ankita sharma,9988789656,ankita.anku96@gmail.com,Pune,20,26-09-2015,NULL,7500,0,NULL,Student
+1,anusha pariti,8105987404,anusha.pariti@gmail.com,bangalore,5,12-02-2015,30-04-2016,7500,0,Sabre,Working
+8,Tushar kapoor,8926537154,tushar.kapoor21@gmail.com,bangalore,7,10-11-2015,31-12-2016,7200,0,NULL,Student
+16,Rajan pandey,8987647811,raajanpandey@gmail.com,Pune,17,23-04-2015,NULL,6500,0,NULL,Student
+7,Kamal gera,8105987404,kamal0094@gmail.com,bangalore,6,20-11-2015,NULL,6500,0,NULL,Student
